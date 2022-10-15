@@ -2,7 +2,13 @@ div {
     max-width: 1600px;
     margin: 0 auto;
 }
-nav a {
+nav {
+    text-align: center;
+}
+#book {
+    text-align: center;
+}
+a {
     text-align: center;
     color: black;
     text-decoration: none;
