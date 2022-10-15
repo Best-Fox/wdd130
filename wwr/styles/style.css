@@ -5,10 +5,7 @@ div {
 nav {
     text-align: center;
 }
-#book {
-    text-align: center;
-}
-#button-box {
+.book {
     text-align: center;
 }
 a {
@@ -23,7 +20,7 @@ a {
     text-align: center;
     color: black;
 }
-button-box {
+.button-box {
     text-align: center;
 }
 main section {
