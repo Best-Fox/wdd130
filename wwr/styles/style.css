@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&family=Rubik+Dirt&display=swap');
+body {
+    font-family: Oxygen;
+}
+.home-title {
+    font-family: Oxygen;
+   background-color: #02010a;
+    color: #f4e951;
+}
 div {
     max-width: 1600px;
     margin: 0 auto;
