@@ -13,11 +13,18 @@ main p {
 }
 a {
     font-size: 1.5em;
+    color: white;
+    padding: 25px;
 }
 h1 {
     text-align: center;
+    margin: 50px 0;
 }
-nav, footer {
+nav {
+    background-color: steelblue;
+    padding: 25px;
+} 
+footer {
     background-color: steelblue;
     color: white;
     padding: 10px;
@@ -25,6 +32,7 @@ nav, footer {
 footer p {
     font-size: 20px;
     margin: 20px auto;
+    padding: 25px;
 }
 a:hover {
     background-color: white;
