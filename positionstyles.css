@@ -1,11 +1,12 @@
 /* CSS - Name: "positionstyles.css" */
 /* Activity 1 styles */
 .content1 {
-  /* This is the parent of the activity 1 boxes. */
-
+display: grid;
+grid-template-columns: 200px 200px;
+grid-gap: 30px;
 }
 .red1 { 
-  width: 100px; 
+  width: 200px; 
   height: 100px; 
   background-color: red; 
 
@@ -22,7 +23,7 @@
   background-color: gold; 
 } 
 .blue1 {
-  width: 100px; 
+  width: 200px; 
   height: 100px; 
   background-color: blue; 
 } 
