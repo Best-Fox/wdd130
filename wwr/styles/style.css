@@ -14,7 +14,7 @@ head {
     font-family: Oxygen, Helvetica, sans-serif;
     font-size: 2em;
    background-color: #02010a;
-    color: #f4e951;
+    color: #f4f1c3;
     margin-top: 10px;
 }
 div {
@@ -24,7 +24,7 @@ div {
 nav a {
     text-align: center;
     background-color: black;
-    color: #f4e951;
+    color: #f4f1c3;
     padding: 35px;
 }
 .book {
@@ -55,7 +55,7 @@ main section img {
     height: 725px;
 }
 body {
-    background-color: #f4e951;
+    background-color: #f4f1c3;
     font-family: Rubik Dirt, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 22px;
     margin: 0;
@@ -65,15 +65,15 @@ h2 {
     margin: 0;
 }
 header {
-    background-color: #f4e951;
+    background-color: #f4f1c3;
 }
 nav a:hover {
     background-color: black;
-    color: #f4e951;
+    color: #f4f1c3;
 }
 .book, .join {
     background-color: black;
-    color: #f4e951;
+    color: #f4f1c3;
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
@@ -85,7 +85,7 @@ nav a:hover {
 }
 .book:hover, .join:hover {
     background-color: black;
-    color: #f4e951;
+    color: #f4f1c3;
 }
 #background {
     background-color: #f4f1c3;
@@ -93,7 +93,7 @@ nav a:hover {
     grid-row: 4/9;
 }
 .msg {
-    background-color: #f4e951;
+    background-color: #f4f1c3;
     line-height: 1.5em;
     padding: 35px;
     grid-column: 6/10;
@@ -101,7 +101,7 @@ nav a:hover {
     box-shadow: 5px 5px 10px #6f7364;
 }
 footer {
-    background-color: #f3ed9b;
+    background-color: #f4f1c3;
     color: black;
     padding: 25px 50px;
     margin-top: 200px;
@@ -124,10 +124,10 @@ footer .social img {
     padding-top: 15px;
 }
 .home-title {
-    color: #f4e951;
+    color: #f4f1c3;
 }
 h4 {
-    color: #f4e951;
+    color: #f4f1c3;
 }
 .msg h2 {
     font-family: font-family: Oxygen, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
