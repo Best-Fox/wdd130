@@ -9,6 +9,9 @@ nav {
     justify-content: space-around;
     grid-template-columns: 1fr 5fr;
 }
+.logo {
+    padding: 1em;
+}
 head {
     font-family: Montserrat, 'Shadows Into Light', Georgia, Times, 'Times New Roman', serif;
 }
