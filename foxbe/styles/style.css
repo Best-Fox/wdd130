@@ -17,10 +17,10 @@ head {
 }
 .home-title {
     font-family: 'Shadows Into Light', Helvetica, sans-serif;
-    font-size: 2em;
+    font-size: 10em;
    background-color: #E7C24F;
     color: #396E94;
-    margin-top: 5px;
+    margin-top: 0;
 }
 #hero-img {
     width: 100%;
@@ -38,12 +38,13 @@ nav a {
 }
 #hero-msg h1 {
     text-align: center;
-    font-size: larger;
 }
 #hero-msg h4{
     text-align: center;
+    font-family: Montserrat;
     background-color: #ADE4F0;
     color: black;
+    font-size: xx-large;
 }
 main section {
     text-align: center;
