@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Shadows+Into+Light&display=swap');
-
+body {
+    background-color: #ADE4F0;
+}
 header {
     display: grid;
     grid-template-columns: 150px auto;
@@ -8,6 +10,7 @@ nav {
     display: flex;
     justify-content: space-around;
     grid-template-columns: 1fr 4fr;
+    font-size: large;
 }
 head {
     font-family: Montserrat, 'Shadows Into Light', Georgia, Times, 'Times New Roman', serif;
@@ -17,7 +20,7 @@ head {
     font-size: 2em;
    background-color: #E7C24F;
     color: #396E94;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 #hero-img {
     width: 100%;
@@ -53,6 +56,5 @@ main section img {
     background-color: #ADE4F0;
     font-family: Montserrat, 'Shadow Into Light', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 22px;
-    margin: 22px;
-    padding: 35px;
+    padding: auto;
 }
