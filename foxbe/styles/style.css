@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Shadows+Into+Light&display=swap');
+
+header {
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+head {
+    font-family: Montserrat, 'Shadows Into Light', Georgia, Times, 'Times New Roman', serif;
+}
+.home-title {
+    font-family: 'Shadows Into Light', Helvetica, sans-serif;
+    font-size: 2em;
+   background-color: #E7C24F;
+    color: #396E94;
+    margin-top: 10px;
+}
+nav a {
+    text-align: center;
+    background-color: #ADE4F0;
+    color: black;
+    padding: 35px;
+    grid-column-start: 2/6;
+}
