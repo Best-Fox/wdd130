@@ -7,7 +7,7 @@ header {
 nav {
     display: flex;
     justify-content: space-around;
-    grid-template-columns: 1fr 5fr;
+    grid-template-columns: 1fr 4fr;
 }
 head {
     font-family: Montserrat, 'Shadows Into Light', Georgia, Times, 'Times New Roman', serif;
@@ -44,6 +44,7 @@ nav a {
 }
 main section {
     text-align: center;
+    background-color: #ADE4F0;
 }
 main section img {
     box-sizing: border-box;
