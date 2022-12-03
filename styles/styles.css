@@ -10,16 +10,16 @@ nav {
     cursor: pointer; /* Add a pointer cursor on mouse-over */
   }
   
-  .success {background-color: #04AA6D;} /* Green */
+  .success {background-color: #04AA6D; color: black;} /* Green */
   .success:hover {background-color: #46a049;}
   
-  .info {background-color: #2196F3;} /* Blue */
+  .info {background-color: #2196F3; color: black;} /* Blue */
   .info:hover {background: #0b7dda;}
   
-  .warning {background-color: #ff9800;} /* Orange */
+  .warning {background-color: #ff9800; color: black;} /* Orange */
   .warning:hover {background: #e68a00;}
   
-  .danger {background-color: #f44336;} /* Red */
+  .danger {background-color: #f44336; color: black;} /* Red */
   .danger:hover {background: #da190b;}
   
   .default {background-color: #ade4fa; color: black;} /* Gray */
