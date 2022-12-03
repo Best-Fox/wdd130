@@ -7,11 +7,22 @@ header {
     grid-template-columns: 150px auto;
     text-align: center;
 }
+.home {background-color: #a3734a; color: black;} /* Green */
+  .home:hover {background-color: #a26b3a;}
+  
+  .guide {background-color: #ffe7d1; color: black;} /* Blue */
+  .guide:hover {background: #f8d9bd;}
+  
+  .resources {background-color: #f0ccad; color: black;} /* Orange */
+  .resources:hover {background: #e68a00;}
+  
+  .plan {background-color: #5595a3; color: black;} /* Red */
+  .planr:hover {background: #4993a4;}
 nav {
     display: flex;
     justify-content: space-around;
-    grid-template-columns: 1fr 4fr;
-    font-size: x-large;
+    grid-template-columns: 1fr auto;
+    font-size: xx-large;
 }
 head {
     font-family: 'Shadows Into Light', Georgia, Verdana, serif;
