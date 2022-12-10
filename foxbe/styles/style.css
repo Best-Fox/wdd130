@@ -20,7 +20,7 @@ header {
   .planr:hover {background: #4993a4;}
 nav {
     display: flex;
-    justify-content: auto;
+    justify-content: space-around;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     font-size: xx-large;
 }
